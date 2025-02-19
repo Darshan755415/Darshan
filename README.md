@@ -7,10 +7,6 @@ Experienced in the Fashion industry and E-commerce verticals, managing client/ve
 
 💡 Always eager to collaborate, share knowledge, and explore opportunities in data analytics. Let's connect! 🚀
 
-PROJECTS
-Power BI 
-Excel 
-Python
 
 
 
