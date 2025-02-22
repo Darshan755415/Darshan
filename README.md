@@ -51,7 +51,18 @@ Portfoloi Projects
 
   Result: Created a detail report document that explaines the dashboard comprehensively included screen shoots of the dashboard visuals for a clear represantion.
 
-  
+- BUSINESS CASE
+
+ Porject : Swiggy
+
+ Decription: Swiggy is one of the largest food eCommerce platform in the country. Every day more than 1 million users are transacting on the platform. 
+
+ Skills: Data Analysis, Data Manipulation
+
+ Technology: Excel
+
+ Result:  Created a document, mentioned all the insights related to the business case. The report listed of dates having any order drop and hike as compared to last same day last week. Once you identified the smaller conversion leading to an increase or decrease in the 
+ orders, used supporting data to explain the reason for the same.
 
 
 
