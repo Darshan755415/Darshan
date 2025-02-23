@@ -9,15 +9,24 @@ Experienced in the Fashion industry and E-commerce verticals, managing client/ve
 
 Portfoloi Projects 
 
- - SQL - Airline Dashboard
-   Airline-db is a database contines flights data related to trasctions, tickets, flights, airports and flights shedules etc. detailed code have been provided.
+ - SQL 
+
+   Project - Airline Dashboard
+
+   Description : Airline-db is a database contines flights data related to trasctions, tickets, flights, airports and flights shedules etc. detailed code have been provided.
+
+   Skills: Data Wrangling, Data Collection,Statistical Analysis, Machine Learning, Data Visualization.
+
+   Technology: SQL
+
+   Result: Completed all the 30 quaires using various functions from SQL. This has enhanced our skills relevant to data Sql code.
  
 
  - PYTHON CAPSTONE PROJECT
  
-   Code: Python Capstone .ipynb
+   Code : Python Capstone .ipynb
 
-   Description:  This project involve's loading the data, cleaning and preparing it, fixing any missing values, doing exploratory data analysis and also includes 10 tasks.
+   Description : This project involve's loading the data, cleaning and preparing it, fixing any missing values, doing exploratory data analysis and also includes 10 tasks.
 
    Skills: Data Wrangling, Exploratory Data Analysis, Statistical Analysis, Machine Learning, Data Visualization, Communication
 
